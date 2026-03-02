@@ -1,7 +1,7 @@
 # AI-Driven Calculated Bandgap Data Curation in Materials Project Based on Known Experimental Data
 
 > **M.Sc. Project Work** — Akash Rajeshbhai Vaghela  
-> Department of Materials Discovery and Interfaces, Ruhr-Universität Bochum  
+> Department of Materials Discovery and Interfaces and Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr-Universität Bochum  
 > Supervisors: Prof. Dr.-Ing. Alfred Ludwig · Dr. Victor Dudarev
 
 ---
@@ -246,7 +246,6 @@ No local installation needed. All packages are installed automatically inside Go
    - Runs MCCV and LOGO validation
    - Outputs parity plots, feature importance charts, and metric tables
 
-> **No setup required.** No local installation, no Google Drive, no manual file uploads. Anyone can reproduce this work in one click.
 
 ---
 
@@ -264,8 +263,6 @@ No local installation needed. All packages are installed automatically inside Go
 - **Materials Project** (calculated band gaps): Jain, A. et al. *APL Materials* 1, 011002 (2013). https://materialsproject.org
 - **"Bandgap" Database** (experimental band gaps): Bandgaps of Inorganic Materials database (manually curated)
 - **Elemental descriptors**: Ward, L. et al. *npj Computational Materials* 2, 1–7 (2016) — Magpie/[matminer](https://hackingmaterials.lbl.gov/matminer/) framework
-- **XGBoost**: Chen & Guestrin, *KDD 2016*
-- **CatBoost**: Prokhorenkova et al., *NeurIPS 2018*
 
 Full bibliography available in the project report PDF.
 
@@ -289,9 +286,3 @@ If you use this code, data, or methodology, please cite:
 
 ---
 
-## Notes
-
-- The column `band_gap_experimenatal (eV)` contains a typo preserved from the source database. Do **not** rename it without updating all five notebooks accordingly.
-- The unary subset (21 compounds after merging) is excluded from MCCV and LOGO testing due to insufficient sample size.
-- All models use a fixed `random_state` where applicable to ensure full reproducibility across runs.
-- Crystal system is one-hot encoded as an additional categorical feature in the feature matrix.
