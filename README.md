@@ -3,6 +3,7 @@
 > **M.Sc. Project Work** — Akash Rajeshbhai Vaghela  
 > Department of Materials Discovery and Interfaces
 > Interdisciplinary Centre for Advanced Materials Simulation (ICAMS)
+
 > Ruhr-Universität Bochum  
 > Supervisors: Prof. Dr.-Ing. Alfred Ludwig · Dr. Victor Dudarev
 
