@@ -1,8 +1,10 @@
 # AI-Driven Calculated Bandgap Data Curation in Materials Project Based on Known Experimental Data
 
 > **M.Sc. Project Work** — Akash Rajeshbhai Vaghela  
-> Department of Materials Discovery and Interfaces 
+> Department of Materials Discovery and Interfaces
+
 > Interdisciplinary Centre for Advanced Materials Simulation (ICAMS)
+
 > Ruhr-Universität Bochum  
 > Supervisors: Prof. Dr.-Ing. Alfred Ludwig · Dr. Victor Dudarev
 
