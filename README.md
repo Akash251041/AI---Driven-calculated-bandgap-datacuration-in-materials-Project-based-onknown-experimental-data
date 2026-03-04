@@ -267,7 +267,7 @@ No local installation needed. All packages are installed automatically inside Go
 - **Materials Project** (calculated band gaps): Jain, A. et al. *APL Materials* 1, 011002 (2013). https://materialsproject.org
 - **"Bandgap" Database** (experimental band gaps): Bandgaps of Inorganic Materials database : https://bg.imet-db.ru/
 
-- **Elemental descriptors**: (https://elements.imet-db.ru/)
+- **Elemental descriptors** : (https://elements.imet-db.ru/)
 
 Full bibliography available in the project report PDF.
 
