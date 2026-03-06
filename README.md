@@ -50,7 +50,7 @@ Models were evaluated across **unary, binary, ternary, quaternary**, and **gener
 
 ### Band Gap Datasets
 
-All CSV files share a consistent 3-column schema:
+All CSV files share a consistent 4-column:
 
 | Column | Description |
 |--------|-------------|
